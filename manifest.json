@@ -1,0 +1,619 @@
+{
+ "schema_version": 3,
+ "content_version": "2026.11.17-0944",
+ "updated": "2026-11-17T09:44:41+00:00",
+ "classes": [
+  {
+   "class": 9,
+   "subjects": [
+    {
+     "slug": "mathematics",
+     "file": "9/mathematics.json",
+     "bytes": 640381,
+     "sha256": "658bf6c2481dd672",
+     "questions": 2469,
+     "chapters": 0
+    },
+    {
+     "slug": "islamiat",
+     "file": "9/islamiat.json",
+     "bytes": 420228,
+     "sha256": "64382324d5fee443",
+     "questions": 1749,
+     "chapters": 0
+    },
+    {
+     "slug": "chemistry",
+     "file": "9/chemistry.json",
+     "bytes": 333465,
+     "sha256": "13cc9ec5b4d23efe",
+     "questions": 1348,
+     "chapters": 0
+    },
+    {
+     "slug": "biology",
+     "file": "9/biology.json",
+     "bytes": 310287,
+     "sha256": "20d7d20ca368fd44",
+     "questions": 1326,
+     "chapters": 0
+    },
+    {
+     "slug": "general-science",
+     "file": "9/general-science.json",
+     "bytes": 300948,
+     "sha256": "39d3748af256c214",
+     "questions": 1219,
+     "chapters": 0
+    },
+    {
+     "slug": "education",
+     "file": "9/education.json",
+     "bytes": 295362,
+     "sha256": "361e3b0d69bbe090",
+     "questions": 1212,
+     "chapters": 0
+    },
+    {
+     "slug": "physics",
+     "file": "9/physics.json",
+     "bytes": 275333,
+     "sha256": "4b171388c870dd02",
+     "questions": 1087,
+     "chapters": 0
+    },
+    {
+     "slug": "english",
+     "file": "9/english.json",
+     "bytes": 291687,
+     "sha256": "a04e32676816ea1f",
+     "questions": 1046,
+     "chapters": 0
+    },
+    {
+     "slug": "computer-science",
+     "file": "9/computer-science.json",
+     "bytes": 156173,
+     "sha256": "3c39b65b6d555752",
+     "questions": 637,
+     "chapters": 0
+    },
+    {
+     "slug": "civics",
+     "file": "9/civics.json",
+     "bytes": 135251,
+     "sha256": "3c00723a481f3e22",
+     "questions": 589,
+     "chapters": 0
+    },
+    {
+     "slug": "pak-studies",
+     "file": "9/pak-studies.json",
+     "bytes": 138906,
+     "sha256": "e1980a48d263fd57",
+     "questions": 576,
+     "chapters": 0
+    },
+    {
+     "slug": "economics",
+     "file": "9/economics.json",
+     "bytes": 58838,
+     "sha256": "50edab736c1d261e",
+     "questions": 257,
+     "chapters": 0
+    },
+    {
+     "slug": "tarjuma-tul-quran",
+     "file": "9/tarjuma-tul-quran.json",
+     "bytes": 47564,
+     "sha256": "0c918b42664c2b6e",
+     "questions": 189,
+     "chapters": 0
+    },
+    {
+     "slug": "ethics",
+     "file": "9/ethics.json",
+     "bytes": 36916,
+     "sha256": "163739b164871eaa",
+     "questions": 165,
+     "chapters": 0
+    },
+    {
+     "slug": "punjabi",
+     "file": "9/punjabi.json",
+     "bytes": 10120,
+     "sha256": "3ff0d4f090a9d288",
+     "questions": 44,
+     "chapters": 0
+    },
+    {
+     "slug": "urdu",
+     "file": "9/urdu.json",
+     "bytes": 1886,
+     "sha256": "91391310f57df954",
+     "questions": 6,
+     "chapters": 0
+    }
+   ]
+  },
+  {
+   "class": 10,
+   "subjects": [
+    {
+     "slug": "mathematics",
+     "file": "10/mathematics.json",
+     "bytes": 740148,
+     "sha256": "1fa6b613baa225db",
+     "questions": 2821,
+     "chapters": 0
+    },
+    {
+     "slug": "biology",
+     "file": "10/biology.json",
+     "bytes": 684712,
+     "sha256": "0744bcae7b7756fe",
+     "questions": 2793,
+     "chapters": 0
+    },
+    {
+     "slug": "islamiat",
+     "file": "10/islamiat.json",
+     "bytes": 554709,
+     "sha256": "e7efd13a1ec719f7",
+     "questions": 2310,
+     "chapters": 0
+    },
+    {
+     "slug": "general-science",
+     "file": "10/general-science.json",
+     "bytes": 594832,
+     "sha256": "51f514d4296a45b2",
+     "questions": 2274,
+     "chapters": 0
+    },
+    {
+     "slug": "physics",
+     "file": "10/physics.json",
+     "bytes": 414596,
+     "sha256": "e3e8611be9013e38",
+     "questions": 1686,
+     "chapters": 0
+    },
+    {
+     "slug": "chemistry",
+     "file": "10/chemistry.json",
+     "bytes": 411715,
+     "sha256": "748f72904cd305fa",
+     "questions": 1609,
+     "chapters": 0
+    },
+    {
+     "slug": "english",
+     "file": "10/english.json",
+     "bytes": 505688,
+     "sha256": "a70d47918ca66dde",
+     "questions": 1504,
+     "chapters": 0
+    },
+    {
+     "slug": "education",
+     "file": "10/education.json",
+     "bytes": 341294,
+     "sha256": "2a39f8806378d0f0",
+     "questions": 1362,
+     "chapters": 0
+    },
+    {
+     "slug": "computer-science",
+     "file": "10/computer-science.json",
+     "bytes": 287762,
+     "sha256": "92b41fbec5a07683",
+     "questions": 1138,
+     "chapters": 0
+    },
+    {
+     "slug": "pak-studies",
+     "file": "10/pak-studies.json",
+     "bytes": 226802,
+     "sha256": "bdc63c497b7a9175",
+     "questions": 900,
+     "chapters": 0
+    },
+    {
+     "slug": "civics",
+     "file": "10/civics.json",
+     "bytes": 125114,
+     "sha256": "348cdb4ea04470d9",
+     "questions": 539,
+     "chapters": 0
+    },
+    {
+     "slug": "economics",
+     "file": "10/economics.json",
+     "bytes": 85271,
+     "sha256": "8168ede638dc7fe4",
+     "questions": 381,
+     "chapters": 0
+    },
+    {
+     "slug": "tarjuma-tul-quran",
+     "file": "10/tarjuma-tul-quran.json",
+     "bytes": 35539,
+     "sha256": "9ebbaf9e259ccfe1",
+     "questions": 145,
+     "chapters": 0
+    },
+    {
+     "slug": "ethics",
+     "file": "10/ethics.json",
+     "bytes": 24959,
+     "sha256": "1287a2882f764dde",
+     "questions": 112,
+     "chapters": 0
+    },
+    {
+     "slug": "urdu",
+     "file": "10/urdu.json",
+     "bytes": 8283,
+     "sha256": "b0fd2517129d57c9",
+     "questions": 27,
+     "chapters": 0
+    },
+    {
+     "slug": "punjabi",
+     "file": "10/punjabi.json",
+     "bytes": 5352,
+     "sha256": "cf691d85348829d2",
+     "questions": 17,
+     "chapters": 0
+    }
+   ]
+  },
+  {
+   "class": 11,
+   "subjects": [
+    {
+     "slug": "islamiat",
+     "file": "11/islamiat.json",
+     "bytes": 576433,
+     "sha256": "45519ed1b9a0c3de",
+     "questions": 2467,
+     "chapters": 0
+    },
+    {
+     "slug": "biology",
+     "file": "11/biology.json",
+     "bytes": 444735,
+     "sha256": "5c7948da9fe9d008",
+     "questions": 1971,
+     "chapters": 0
+    },
+    {
+     "slug": "chemistry",
+     "file": "11/chemistry.json",
+     "bytes": 453135,
+     "sha256": "a55d42df1a0d7eaf",
+     "questions": 1883,
+     "chapters": 0
+    },
+    {
+     "slug": "economics",
+     "file": "11/economics.json",
+     "bytes": 433117,
+     "sha256": "4bda7f6471135c81",
+     "questions": 1775,
+     "chapters": 0
+    },
+    {
+     "slug": "physics",
+     "file": "11/physics.json",
+     "bytes": 428394,
+     "sha256": "b71d934f9fb13578",
+     "questions": 1725,
+     "chapters": 0
+    },
+    {
+     "slug": "civics",
+     "file": "11/civics.json",
+     "bytes": 384548,
+     "sha256": "1cb54025d743b509",
+     "questions": 1578,
+     "chapters": 0
+    },
+    {
+     "slug": "computer-science",
+     "file": "11/computer-science.json",
+     "bytes": 365863,
+     "sha256": "28546e5a0e632c99",
+     "questions": 1550,
+     "chapters": 0
+    },
+    {
+     "slug": "education",
+     "file": "11/education.json",
+     "bytes": 345463,
+     "sha256": "3c1f9e7d503c8fc2",
+     "questions": 1433,
+     "chapters": 0
+    },
+    {
+     "slug": "english",
+     "file": "11/english.json",
+     "bytes": 339925,
+     "sha256": "2d85157693440358",
+     "questions": 1313,
+     "chapters": 0
+    },
+    {
+     "slug": "mathematics",
+     "file": "11/mathematics.json",
+     "bytes": 240740,
+     "sha256": "dbe6648b27a2cb78",
+     "questions": 1041,
+     "chapters": 0
+    },
+    {
+     "slug": "history",
+     "file": "11/history.json",
+     "bytes": 234424,
+     "sha256": "4dde84366124f311",
+     "questions": 1040,
+     "chapters": 0
+    },
+    {
+     "slug": "sociology",
+     "file": "11/sociology.json",
+     "bytes": 243081,
+     "sha256": "a8dfa7593366f389",
+     "questions": 1022,
+     "chapters": 0
+    },
+    {
+     "slug": "statistics",
+     "file": "11/statistics.json",
+     "bytes": 233985,
+     "sha256": "aae78df7b877b3fe",
+     "questions": 995,
+     "chapters": 0
+    },
+    {
+     "slug": "geography",
+     "file": "11/geography.json",
+     "bytes": 192676,
+     "sha256": "ca36b605ac56b451",
+     "questions": 854,
+     "chapters": 0
+    },
+    {
+     "slug": "psychology",
+     "file": "11/psychology.json",
+     "bytes": 179630,
+     "sha256": "989b4633e0b5c9c9",
+     "questions": 789,
+     "chapters": 0
+    },
+    {
+     "slug": "accounting",
+     "file": "11/accounting.json",
+     "bytes": 156269,
+     "sha256": "dd6bcfd2dd09b838",
+     "questions": 612,
+     "chapters": 0
+    },
+    {
+     "slug": "commerce",
+     "file": "11/commerce.json",
+     "bytes": 138732,
+     "sha256": "c63f2f1c92d8ec61",
+     "questions": 590,
+     "chapters": 0
+    },
+    {
+     "slug": "tarjuma-tul-quran",
+     "file": "11/tarjuma-tul-quran.json",
+     "bytes": 66487,
+     "sha256": "f82eb856b60b0566",
+     "questions": 269,
+     "chapters": 0
+    },
+    {
+     "slug": "ethics",
+     "file": "11/ethics.json",
+     "bytes": 59611,
+     "sha256": "416510a8036bdf0a",
+     "questions": 267,
+     "chapters": 0
+    },
+    {
+     "slug": "urdu",
+     "file": "11/urdu.json",
+     "bytes": 4589,
+     "sha256": "a7c9ea5c9b00c3d6",
+     "questions": 15,
+     "chapters": 0
+    },
+    {
+     "slug": "punjabi",
+     "file": "11/punjabi.json",
+     "bytes": 3747,
+     "sha256": "3dacc6e0860830d4",
+     "questions": 13,
+     "chapters": 0
+    }
+   ]
+  },
+  {
+   "class": 12,
+   "subjects": [
+    {
+     "slug": "biology",
+     "file": "12/biology.json",
+     "bytes": 460962,
+     "sha256": "9c37a568c32219dd",
+     "questions": 2006,
+     "chapters": 0
+    },
+    {
+     "slug": "physics",
+     "file": "12/physics.json",
+     "bytes": 462332,
+     "sha256": "24b4849e6125b611",
+     "questions": 1847,
+     "chapters": 0
+    },
+    {
+     "slug": "chemistry",
+     "file": "12/chemistry.json",
+     "bytes": 433133,
+     "sha256": "c3252ac7de17723e",
+     "questions": 1799,
+     "chapters": 0
+    },
+    {
+     "slug": "civics",
+     "file": "12/civics.json",
+     "bytes": 396765,
+     "sha256": "3cfda6071970a2a0",
+     "questions": 1661,
+     "chapters": 0
+    },
+    {
+     "slug": "education",
+     "file": "12/education.json",
+     "bytes": 392280,
+     "sha256": "c1d67f3834174a54",
+     "questions": 1631,
+     "chapters": 0
+    },
+    {
+     "slug": "history",
+     "file": "12/history.json",
+     "bytes": 328101,
+     "sha256": "fcb8d927b20382a2",
+     "questions": 1448,
+     "chapters": 0
+    },
+    {
+     "slug": "computer-science",
+     "file": "12/computer-science.json",
+     "bytes": 344005,
+     "sha256": "fc52d1633f0984e8",
+     "questions": 1411,
+     "chapters": 0
+    },
+    {
+     "slug": "english",
+     "file": "12/english.json",
+     "bytes": 340220,
+     "sha256": "cf42aaa3ad677d86",
+     "questions": 1387,
+     "chapters": 0
+    },
+    {
+     "slug": "islamiat",
+     "file": "12/islamiat.json",
+     "bytes": 309581,
+     "sha256": "0d332b3a9e9812da",
+     "questions": 1318,
+     "chapters": 0
+    },
+    {
+     "slug": "geography",
+     "file": "12/geography.json",
+     "bytes": 294095,
+     "sha256": "d146697d6e5f0524",
+     "questions": 1291,
+     "chapters": 0
+    },
+    {
+     "slug": "sociology",
+     "file": "12/sociology.json",
+     "bytes": 213691,
+     "sha256": "29cd3c80222c291e",
+     "questions": 916,
+     "chapters": 0
+    },
+    {
+     "slug": "statistics",
+     "file": "12/statistics.json",
+     "bytes": 170227,
+     "sha256": "3bac3fdae9fc339e",
+     "questions": 736,
+     "chapters": 0
+    },
+    {
+     "slug": "mathematics",
+     "file": "12/mathematics.json",
+     "bytes": 160431,
+     "sha256": "524f4d4d2e055617",
+     "questions": 680,
+     "chapters": 0
+    },
+    {
+     "slug": "pak-studies",
+     "file": "12/pak-studies.json",
+     "bytes": 159853,
+     "sha256": "358031818e2a248a",
+     "questions": 641,
+     "chapters": 0
+    },
+    {
+     "slug": "economics",
+     "file": "12/economics.json",
+     "bytes": 133804,
+     "sha256": "3785eb834008ae50",
+     "questions": 576,
+     "chapters": 0
+    },
+    {
+     "slug": "psychology",
+     "file": "12/psychology.json",
+     "bytes": 84049,
+     "sha256": "229048b2a0843010",
+     "questions": 363,
+     "chapters": 0
+    },
+    {
+     "slug": "banking",
+     "file": "12/banking.json",
+     "bytes": 78611,
+     "sha256": "00ca4ba9f348b4ee",
+     "questions": 332,
+     "chapters": 0
+    },
+    {
+     "slug": "tarjuma-tul-quran",
+     "file": "12/tarjuma-tul-quran.json",
+     "bytes": 36254,
+     "sha256": "3ed7465b55c87897",
+     "questions": 149,
+     "chapters": 0
+    },
+    {
+     "slug": "business-stats",
+     "file": "12/business-stats.json",
+     "bytes": 26151,
+     "sha256": "c391f3a2d74805b5",
+     "questions": 116,
+     "chapters": 0
+    },
+    {
+     "slug": "punjabi",
+     "file": "12/punjabi.json",
+     "bytes": 4800,
+     "sha256": "56e61201c4bb3ff7",
+     "questions": 15,
+     "chapters": 0
+    },
+    {
+     "slug": "urdu",
+     "file": "12/urdu.json",
+     "bytes": 3900,
+     "sha256": "e2a74d17bdbc7322",
+     "questions": 13,
+     "chapters": 0
+    }
+   ]
+  }
+ ]
+}
