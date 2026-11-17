@@ -1,11 +1,10 @@
 #!/usr/bin/env python3
 """Schema validation — galat data live na jaye."""
-import json, sys, os
+import json, sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 errors = []
-
 man = json.loads((ROOT / "manifest.json").read_text())
 for key in ("schema_version", "content_version", "classes"):
     if key not in man:
@@ -23,7 +22,7 @@ for c in man.get("classes", []):
         if d.get("class") != c["class"] or d.get("subject") != s["slug"]:
             errors.append(f"{s['file']}: class/subject manifest se match nahi")
         if len(d.get("questions", [])) != s["questions"]:
-            errors.append(f"{s['file']}: questions count {len(d['questions'])} != manifest {s['questions']}")
+            errors.append(f"{s['file']}: questions {len(d['questions'])} != manifest {s['questions']}")
         for q in d.get("questions", [])[:200]:
             for key in ("id", "text", "times", "papers"):
                 if key not in q:
@@ -35,5 +34,4 @@ if errors:
     for e in errors[:20]:
         print("  -", e)
     sys.exit(1)
-print(f"OK — {len(man['classes'])} classes, "
-      f"{sum(len(c['subjects']) for c in man['classes'])} files validated")
+print(f"OK — {len(man['classes'])} classes, {sum(len(c['subjects']) for c in man['classes'])} files validated")
