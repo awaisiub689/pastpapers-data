@@ -1,0 +1,62 @@
+{
+ "content_version": "2026.11.04-0357",
+ "summary": {
+  "9/mathematics": {
+   "questions": 2421,
+   "mapped": 875,
+   "chapters": 17,
+   "bytes": 669585,
+   "sha256": "7b93d73c61e4ee65"
+  },
+  "10/mathematics": {
+   "questions": 2782,
+   "mapped": 1309,
+   "chapters": 13,
+   "bytes": 779837,
+   "sha256": "319d908647899574"
+  },
+  "9/physics": {
+   "questions": 1065,
+   "mapped": 613,
+   "chapters": 9,
+   "bytes": 289102,
+   "sha256": "84d6b455a54e181f"
+  },
+  "10/physics": {
+   "questions": 1660,
+   "mapped": 1062,
+   "chapters": 9,
+   "bytes": 439422,
+   "sha256": "0ce552662c4d6a99"
+  },
+  "9/chemistry": {
+   "questions": 1329,
+   "mapped": 914,
+   "chapters": 8,
+   "bytes": 354640,
+   "sha256": "e71a4364b47caf2b"
+  },
+  "10/chemistry": {
+   "questions": 1580,
+   "mapped": 842,
+   "chapters": 8,
+   "bytes": 432909,
+   "sha256": "d3625713426b97f5"
+  },
+  "9/biology": {
+   "questions": 1307,
+   "mapped": 741,
+   "chapters": 9,
+   "bytes": 329797,
+   "sha256": "bd4f87b7f4cce235"
+  },
+  "10/biology": {
+   "questions": 2770,
+   "mapped": 1733,
+   "chapters": 9,
+   "bytes": 732709,
+   "sha256": "d4c8f7fdcc14ca24"
+  }
+ },
+ "built_at": "2026-11-18T03:57:08"
+}

@@ -1,6 +1,6 @@
 {
  "schema_version": 3,
- "content_version": "2026.11.17-1115",
+ "content_version": "2026.11.04-0357",
  "updated": "2026-11-17T11:15:00+00:00",
  "classes": [
   {
@@ -9,10 +9,10 @@
     {
      "slug": "mathematics",
      "file": "9/mathematics.json",
-     "bytes": 640381,
-     "sha256": "658bf6c2481dd672",
-     "questions": 2469,
-     "chapters": 0,
+     "bytes": 669585,
+     "sha256": "7b93d73c61e4ee65",
+     "questions": 2421,
+     "chapters": 17,
      "papers": 47
     },
     {
@@ -27,19 +27,19 @@
     {
      "slug": "chemistry",
      "file": "9/chemistry.json",
-     "bytes": 333465,
-     "sha256": "13cc9ec5b4d23efe",
-     "questions": 1348,
-     "chapters": 0,
+     "bytes": 354640,
+     "sha256": "e71a4364b47caf2b",
+     "questions": 1329,
+     "chapters": 8,
      "papers": 52
     },
     {
      "slug": "biology",
      "file": "9/biology.json",
-     "bytes": 310287,
-     "sha256": "20d7d20ca368fd44",
-     "questions": 1326,
-     "chapters": 0,
+     "bytes": 329797,
+     "sha256": "bd4f87b7f4cce235",
+     "questions": 1307,
+     "chapters": 9,
      "papers": 48
     },
     {
@@ -63,10 +63,10 @@
     {
      "slug": "physics",
      "file": "9/physics.json",
-     "bytes": 275333,
-     "sha256": "4b171388c870dd02",
-     "questions": 1087,
-     "chapters": 0,
+     "bytes": 289102,
+     "sha256": "84d6b455a54e181f",
+     "questions": 1065,
+     "chapters": 9,
      "papers": 43
     },
     {
@@ -158,19 +158,19 @@
     {
      "slug": "mathematics",
      "file": "10/mathematics.json",
-     "bytes": 765448,
-     "sha256": "bab6f3d874c1616d",
-     "questions": 2821,
+     "bytes": 779837,
+     "sha256": "319d908647899574",
+     "questions": 2782,
      "chapters": 13,
      "papers": 64
     },
     {
      "slug": "biology",
      "file": "10/biology.json",
-     "bytes": 684712,
-     "sha256": "0744bcae7b7756fe",
-     "questions": 2793,
-     "chapters": 0,
+     "bytes": 732709,
+     "sha256": "d4c8f7fdcc14ca24",
+     "questions": 2770,
+     "chapters": 9,
      "papers": 61
     },
     {
@@ -194,19 +194,19 @@
     {
      "slug": "physics",
      "file": "10/physics.json",
-     "bytes": 414596,
-     "sha256": "e3e8611be9013e38",
-     "questions": 1686,
-     "chapters": 0,
+     "bytes": 439422,
+     "sha256": "0ce552662c4d6a99",
+     "questions": 1660,
+     "chapters": 9,
      "papers": 60
     },
     {
      "slug": "chemistry",
      "file": "10/chemistry.json",
-     "bytes": 411715,
-     "sha256": "748f72904cd305fa",
-     "questions": 1609,
-     "chapters": 0,
+     "bytes": 432909,
+     "sha256": "d3625713426b97f5",
+     "questions": 1580,
+     "chapters": 8,
      "papers": 61
     },
     {
